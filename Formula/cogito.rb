@@ -10,7 +10,6 @@ class Cogito < Formula
   depends_on 'autoconf' => :build
 
   def install
-    system 'pwd'
     system 'autoreconf', '-i'
     system './configure', "--prefix=#{prefix}"
     system 'make', 'install'
