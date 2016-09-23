@@ -13,6 +13,7 @@ class Cogito < Formula
   end
 
   def install
+    system 'pwd'
     system 'autoreconf', '-i'
     system './configure', "--prefix=#{prefix}"
     system 'make', 'install'
