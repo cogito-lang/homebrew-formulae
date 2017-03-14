@@ -9,7 +9,7 @@ A [Homebrew tap] for Localytics projects.
 Tap this repository:
 
 ```sh
-brew tap localytics/formulae git@github.com:localytics/homebrew-formulae
+brew tap localytics/formulae
 ```
 
 Install the packages it contains like any other Homebrew package:
