@@ -1,8 +1,6 @@
 # Homebrew Formulae
 
-A [Homebrew tap] for Localytics projects.
-
-[Homebrew tap]: https://github.com/Homebrew/brew/blob/master/docs/brew-tap.md
+A [Homebrew tap](https://github.com/Homebrew/brew/blob/master/docs/brew-tap.md) for Localytics projects.
 
 ## Usage
 
@@ -22,7 +20,7 @@ brew install cogito
 
 Bug reports and pull requests are welcome on GitHub at:
 
-* [libcogito](https://github.com/localytics/humidifier)
+* [libcogito](https://github.com/localytics/libcogito)
 
 ### License
 
