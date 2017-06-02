@@ -9,6 +9,7 @@ class Cogito < Formula
   depends_on 'automake' => :build
   depends_on 'autoconf' => :build
   depends_on 'pkg-config' => :build
+  depends_on 'check' => :optional
 
   def install
     system 'autoreconf', '-i'
