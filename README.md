@@ -1,13 +1,13 @@
-# Homebrew Formulae
+# Homebrew formulae
 
-A [Homebrew tap](https://github.com/Homebrew/brew/blob/master/docs/brew-tap.md) for Localytics projects.
+A custom [Homebrew tap](https://github.com/Homebrew/brew/blob/master/docs/brew-tap.md).
 
 ## Usage
 
 Tap this repository:
 
 ```sh
-brew tap localytics/formulae
+brew tap kddeisz/formulae
 ```
 
 Install the packages it contains like any other Homebrew package:
@@ -20,7 +20,7 @@ brew install cogito
 
 Bug reports and pull requests are welcome on GitHub at:
 
-* [libcogito](https://github.com/localytics/libcogito)
+* [libcogito](https://github.com/kddeisz/libcogito)
 
 ### License
 
