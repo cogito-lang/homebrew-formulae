@@ -7,7 +7,7 @@ A custom [Homebrew tap](https://github.com/Homebrew/brew/blob/master/docs/brew-t
 Tap this repository:
 
 ```sh
-brew tap kddeisz/formulae
+brew tap cogito-lang/formulae
 ```
 
 Install the packages it contains like any other Homebrew package:
@@ -16,12 +16,10 @@ Install the packages it contains like any other Homebrew package:
 brew install cogito
 ```
 
-### Contributing
+## Contributing
 
-Bug reports and pull requests are welcome on GitHub at:
+Bug reports and pull requests are welcome on GitHub at https://github.com/cogito-lang/homebrew-formulae.
 
-* [libcogito](https://github.com/kddeisz/libcogito)
+## License
 
-### License
-
-The code in this repository is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+The gem is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
